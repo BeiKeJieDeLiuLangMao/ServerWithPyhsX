@@ -1,0 +1,6 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/CN40592-N/Workspace/CPP/ServerWithPyhsX
+-- /Users/CN40592-N/Workspace/CPP/ServerWithPyhsX/src/Scene.proto
+-- /Users/CN40592-N/Workspace/CPP/ServerWithPyhsX/cmake-build-debug/Scene.pb.cc
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/CN40592-N/Workspace/CPP/ServerWithPyhsX/cmake-build-debug
