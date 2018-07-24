@@ -1,4 +1,0 @@
-/Users/CN40592-N/Workspace/CPP/ServerWithPyhsX/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/CN40592-N/Workspace/CPP/ServerWithPyhsX/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/CN40592-N/Workspace/CPP/ServerWithPyhsX/cmake-build-debug/CMakeFiles/ServerWithPyhsX.dir
-/Users/CN40592-N/Workspace/CPP/ServerWithPyhsX/cmake-build-debug/CMakeFiles/proto.dir

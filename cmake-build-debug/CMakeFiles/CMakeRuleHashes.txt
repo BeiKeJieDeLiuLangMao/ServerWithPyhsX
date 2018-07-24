@@ -1,2 +1,0 @@
-# Hashes of file build rules.
-9b85945e0e562782cba894874b151d3b Scene.pb.cc
