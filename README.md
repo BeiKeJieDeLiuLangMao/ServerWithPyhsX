@@ -140,7 +140,7 @@ PVD 可以通过 TCP 或者file 的形式连接物理引擎,本例采用 TCP 的
 
 ### Code
 
-``
+
 
     void PhysicsSceneManager::SetupPvdDebug()
     {
@@ -172,7 +172,7 @@ PVD 可以通过 TCP 或者file 的形式连接物理引擎,本例采用 TCP 的
      conn->createRenderer();
      }
     }
-``
+
 
 ### Tips
 
